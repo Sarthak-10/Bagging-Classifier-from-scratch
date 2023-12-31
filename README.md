@@ -1,5 +1,9 @@
 # Bagging-Classifier-from-scratch
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Bagging_Classifier_from_Scratch.ipynb)
+
+:star:**Please star the repository if you happen to like the project**
+
 The ipynb file contains the solution to the attached Problem Statement.
 
 It contains an implementation of Bagging Classifier from scratch.
